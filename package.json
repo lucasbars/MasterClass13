@@ -1,0 +1,17 @@
+{
+  "name": "masterclass13",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.16",
+    "pg": "^8.5.1"
+  }
+}
