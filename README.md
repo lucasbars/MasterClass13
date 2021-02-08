@@ -1,3 +1,6 @@
+<h1 align="center">
+    MasterClass#13
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 API desenvolvida com integração com banco de dados [PostgreSQL](https://www.postgresql.org/) utilizando o Query Builder [Knex.js](http://knexjs.org/) da aula Masterclass#13💜
 
-Este é um projeto desenvolvido durante a MasterClass #13, realizada pela [@Rocketseat](https://github.com/Rocketseat) no [Youtube](https://www.youtube.com/watch?v=U7GjS3FuSkA&ab_channel=Rocketseat) 
+Este é um projeto desenvolvido durante a [MasterClass #13](https://www.youtube.com/watch?v=U7GjS3FuSkA&ab_channel=Rocketseat) , realizada pela [@Rocketseat](https://github.com/Rocketseat) no [Youtube](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
 ## 📝 Licença
 
